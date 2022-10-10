@@ -3,7 +3,7 @@
 
 
 - 🔭 Actualmente me encuentro en busca de empleo como Desarrollador Web.
-- 🌱 Mis proyectos actuales los estan enfocados a mejorar mis habilidades con React, Javascript y Css en el Front y Java con Spring Boot y JPA para el BackEnd.    ...
+- 🌱 Mis proyectos actuales los estan enfocados a mejorar mis habilidades con React, Javascript y Css en el Front y Java con Spring Boot y JPA para el BackEnd.    
 <!--
 **JuanjoRSanchez/JuanjoRSanchez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
